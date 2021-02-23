@@ -3,8 +3,9 @@
 ## A tic tac game developed with Flutter with two game's mode: player vs player and player vs PC
 
 This is an implementation of tic tac game with Flutter, some pictures below
-![Mode 1: Player vs Playe](https://github.com/antonio-nicolau/tic-tac-game/blob/master/screenshots/Screenshot_20210223-133751.jpg)
-![Mode 2: Player vs PC](https://github.com/antonio-nicolau/tic-tac-game/blob/master/screenshots/Screenshot_20210223-133824.jpg)
+![Home page](https://github.com/antonio-nicolau/tic-tac-game/blob/master/screenshot/Screenshot_20210223-133644.jpg)
+![Mode 1: Player vs Playe](https://github.com/antonio-nicolau/tic-tac-game/blob/master/screenshot/Screenshot_20210223-133751.jpg)
+![Mode 2: Player vs PC](https://github.com/antonio-nicolau/tic-tac-game/blob/master/screenshot/Screenshot_20210223-133824.jpg)
 
 ## Game mode
 I implemented to modes:
